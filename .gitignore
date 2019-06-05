@@ -1,4 +1,4 @@
-+# Built application files
+# Built application files
 *.apk
 *.ap_
 
@@ -63,14 +63,3 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
-.idea/
-app/build.gradle
-app/libs/
-app/proguard-rules.pro
-app/src/
-build.gradle
-gradle.properties
-gradle/
-gradlew
-gradlew.bat
-settings.gradle
